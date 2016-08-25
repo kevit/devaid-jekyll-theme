@@ -1,0 +1,43 @@
+
+# Setup
+title:               DevAid
+email:               example@gmail.com
+tagline:             Free Jekyll theme made for developers
+url:                 "" # insert your site's URL
+baseurl:             ""
+
+# About/contact
+author: # you can edit these to be your personal details
+  name:              Xiaoying Riley
+  url:               https://twitter.com/3rdwave_themes
+  email:
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics:
+google_tag_manager:
+# Bing services
+bing_verification:
+
+# Social
+github_username: thundergolfer
+twitter_username: 3rdwave_themes
+instagram_username: kevin/
+facebook: 3rdwavethemes/
+linkedin_username: xiaoying
+dribbble_username: Xiaoying
+
+# Custom vars
+version:             1.0.1
+github:
+  repo:              https://github.com/kevit/devaid-jekyll-theme
+
+# Gems - Dependencies for this theme
+gems:
+  # None currently
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
