@@ -41,3 +41,24 @@ gems:
 # Build settings
 markdown:     kramdown
 permalink:    pretty
+
+widgets:
+  - title: About
+    url: about
+    archor: true
+  - title: Features
+    url: features
+    archor: true
+  - title: Docs
+    url: docs
+    archor: true
+  - title: License
+    url: license
+    archor: true
+  - title: Contact
+    url: contact
+    archor: true
+  - title: Blog
+    url: blog
+  - title: Page
+    url: page
