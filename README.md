@@ -20,3 +20,7 @@ A Jekyll server will be run locally so that you can see your site.
 ### Download
 
 [Download Tar Package](https://github.com/kevit/devaid-jekyll-theme/blob/master/archive.tar.bz2), or [get .zip package](https://github.com/thundergolfer/devaid-jekyll-theme/archive/master.zip)
+
+## License
+
+Please follow the license agreement for your projects https://themes.3rdwavemedia.com/bootstrap-templates/startup/devaid-free-bootstrap-theme-for-developers-side-projects/
